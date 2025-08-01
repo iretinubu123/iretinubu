@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediction Results</title>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'style.css' %}">
+</head>
+<body>
+    <div class="container">
+        <div class="results">
+            <h2>Top 3 Career Predictions</h2>
+            <ul>
+                {% for career, probability in predictions %}
+                    <li>{{ career }} <span>(Probability: {{ probability|floatformat:2 }})</span></li>
+                {% endfor %}
+            </ul>
+            <a href="/"><button>Try Again</button></a>
+        </div>
+    </div>
+</body>
+</html>

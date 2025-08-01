@@ -1,0 +1,11 @@
+Grades,Interests,Personality,Career
+"{'Math': 'A', 'Science': 'A', 'Art': 'C'}","['Technology', 'Problem Solving']","{'Analytical': 9, 'Creative': 3, 'Social': 5}",Software Engineer
+"{'Math': 'B', 'Science': 'C', 'Art': 'A'}","['Art', 'Design']","{'Analytical': 4, 'Creative': 9, 'Social': 7}",Graphic Designer
+"{'Math': 'C', 'Science': 'B', 'Art': 'B'}","['Helping People', 'Science']","{'Analytical': 6, 'Creative': 5, 'Social': 9}",Doctor
+"{'Math': 'A', 'Science': 'B', 'Art': 'C'}","['Business', 'Management']","{'Analytical': 8, 'Creative': 4, 'Social': 8}",Project Manager
+"{'Math': 'B', 'Science': 'A', 'Art': 'B'}","['Research', 'Writing']","{'Analytical': 7, 'Creative': 6, 'Social': 4}",Research Scientist
+"{'Math': 'A', 'Science': 'A', 'Art': 'A'}","['Technology', 'Design']","{'Analytical': 8, 'Creative': 8, 'Social': 6}",AI Specialist
+"{'Math': 'C', 'Science': 'C', 'Art': 'A'}","['Creative', 'Visuals']","{'Analytical': 3, 'Creative': 9, 'Social': 8}",Animator
+"{'Math': 'B', 'Science': 'A', 'Art': 'C'}","['Data', 'Statistics']","{'Analytical': 9, 'Creative': 4, 'Social': 5}",Data Analyst
+"{'Math': 'A', 'Science': 'B', 'Art': 'B'}","['Finance', 'Numbers']","{'Analytical': 8, 'Creative': 5, 'Social': 7}",Financial Analyst
+"{'Math': 'C', 'Science': 'B', 'Art': 'A'}","['Teaching', 'Mentoring']","{'Analytical': 5, 'Creative': 7, 'Social': 9}",Teacher
